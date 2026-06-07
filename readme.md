@@ -3,3 +3,4 @@ line02
 line03
 line04_from_b1
 line04_from_master
+line05_from_clone
